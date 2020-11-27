@@ -1,0 +1,6 @@
+digraph {
+	first -> "sub-first"
+	second -> "sub-second"
+	"sub-first" -> "sub-second"
+	third -> "sub-third"
+}
